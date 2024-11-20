@@ -1,1 +1,1 @@
-# sonardemo
+# sonarqube
